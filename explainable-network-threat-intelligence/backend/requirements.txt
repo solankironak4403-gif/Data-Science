@@ -1,0 +1,16 @@
+﻿pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+shap
+lime
+jupyter
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+pydantic
